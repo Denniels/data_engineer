@@ -133,19 +133,19 @@ Este repositorio no tiene licencia. Si deseas colaborar, mejorar o contratar, pu
 
 Si deseas ponerte en contacto conmigo, puedes hacerlo a través de las siguientes plataformas:
 
-<a href="https://github.com/Denniels" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub" style="vertical-align:middle; margin-right:8px;"/>
-  <b>GitHub</b>: Denniels
-</a>
-
-<a href="https://www.linkedin.com/in/daniel-andres-mardones-sanhueza-27b73777/" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" style="vertical-align:middle; margin-right:8px;"/>
-  <b>LinkedIn</b>: Daniel Andrés Mardones Sanhueza
-</a>
-
-<a href="mailto:d.mardones.s@gmail.com" style="text-decoration:none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24" height="24" alt="Email" style="vertical-align:middle; margin-right:8px;"/>
-  <b>Email</b>: d.mardones.s@gmail.com
-</a>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub"/></td>
+    <td><a href="https://github.com/Denniels">Denniels</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn"/></td>
+    <td><a href="https://www.linkedin.com/in/daniel-andres-mardones-sanhueza-27b73777/">Daniel Andrés Mardones Sanhueza</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24" alt="Email"/></td>
+    <td><a href="mailto:d.mardones.s@gmail.com">d.mardones.s@gmail.com</a></td>
+  </tr>
+</table>
 
 Estoy abierto a colaboraciones, consultas y oportunidades laborales.
